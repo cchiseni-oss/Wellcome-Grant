@@ -1,0 +1,326 @@
+**Wellcome Early-Career Award**
+
+**Application**
+
+The Long Shadow of Mission Medicine: Colonial Missionary Healthcare, Institutional Trust, and the Spatial Burden of Disease in Sub-Saharan Africa
+
+Proposed length of funding (months): 48
+
+Proposed start date: \[At least seven months after the application deadline — e.g. for a 21 July 2026 deadline, propose 1 March 2027 or later.\]
+
+Research subject area: Humanities and social science
+
+Administering / host organisation: Stellenbosch University, South Africa (Department of Economics; Laboratory for the Economics of Africa's Past, LEAP)
+
+Drafting note for the applicant — please read before submitting. This document is written to the official Early-Career Award sample form (4 March 2026) and the published assessment framework (Research proposal 50%; Skills and experience 25%; Research environment 25%). Two points still need your decision before submission, flagged inline in **\[ACTION\]** boxes:
+
+1\. **Scheme alignment.** Your original concept note named the _Career Development Award_ and a 36-month timeline. This application is written for the _Early-Career Award_ you linked, which is normally **5 years** with **salary + up to £400,000** research expenses and **no co-applicants**. The programme has been expanded to a feasible **60-month** plan. If you prefer the Career Development Award, tell me and I will re-scope.
+
+2\. **Generative-AI declaration.** Wellcome requires you to declare AI use. Guidance and suggested wording are in the relevant section below.
+
+## RESEARCH PROPOSAL — APPLICATION SUMMARY
+
+**Application title:**
+
+_The Long Shadow of Mission Medicine: Colonial Missionary Healthcare, Institutional Trust, and the Spatial Burden of Disease in Sub-Saharan Africa_
+
+**Proposed length of funding (months):** 48
+
+**Proposed start date:** 1 March 2027
+
+**Research subject area:** Humanities and social science
+
+**Administering / host organisation:** Stellenbosch University, South Africa (Department of Economics; Laboratory for the Economics of Africa's Past, LEAP)
+
+## RESEARCH PROPOSAL SUMMARY
+
+### Research summary (max 200 words)
+
+Across much of sub-Saharan Africa, formal health facilities exist and are physically reachable, yet many communities use them little — especially for preventive and maternal care. Standard explanations (poverty, distance, facility quality) leave much of this gap unexplained. This project tests a historical explanation: that the colonial geography of Christian missionary medicine — the dominant provider of formal healthcare in British colonial Africa from the late nineteenth century — shaped enduring differences in institutional trust, the willingness of communities to engage with formal health systems.
+
+The project builds the first continental-scale, geo-referenced dataset of colonial missionary hospitals and dispensaries, extending the method I developed and validated in my PhD for Zambia (1924–1948). The project will link contemporary, georeferenced survey data on health-seeking behaviour and trust (DHS, Afrobarometer) and to high-resolution disease-burden estimates, and tests whether historical mission exposure predicts trust, whether trust mediates utilisation, and whether this translates into a measurable, spatially patterned disease-burden penalty today. Qualitative fieldwork in Zambia centres community voice. The result is a new dataset, a new explanation for spatial health inequality, and direct relevance for designing trusted health systems.
+
+Keywords: institutional trust; health-seeking behaviour; colonial medicine; Christian missions; sub-Saharan Africa; spatial epidemiology; health systems; historical persistence.
+
+### Is this or a similar application for funding currently under consideration elsewhere?
+
+No. _(Update if you submit a similar proposal elsewhere; if you do, name the funder and expected decision date.)_
+
+### Is this a resubmission of an Early-Career Award application submitted to Wellcome?
+
+No.
+
+## YOUR RESEARCH VISION (max 3,000 words)
+
+### Aims and research questions
+
+Why do some communities in sub-Saharan Africa consistently use formal health services less than others — even where clinics are built, staffed, and reachable? My answer is that part of the reason lies in history. The institution that first brought formal biomedical care to most of British colonial Africa was not the state but the Christian mission. From the late nineteenth century, mission hospitals, dispensaries, and maternal welfare services were the dominant — often the only — point of contact between African communities and biomedicine. That encounter was never neutral. It was bound up with religious authority, social discipline, and colonial power. Where it was experienced as care, it built habits of engagement and confidence in formal medicine that could be transmitted across generations. Where it was experienced as coercion or cultural threat, it could build durable suspicion. My central claim is that this uneven colonial inheritance left lasting, spatially patterned differences in **institutional trust** — the willingness of communities to engage with formal health systems — and that this trust gradient is an under-examined structural determinant of who uses health services today, and therefore of where disease burden concentrates.
+
+The programme is organised around four linked questions:
+
+**RQ1 (the historical map).** Where were colonial missionary hospitals, dispensaries, and health stations located across British colonial Africa, and how did their distribution vary by denomination, territory, and period?
+
+**RQ2 (trust, behaviour, and burden).** Do communities historically exposed to missionary health infrastructure show systematically different health-seeking behaviour and institutional trust today than comparable communities that were not — and does that difference, through behaviour, predict a measurable, spatially patterned disease-burden penalty?
+
+**RQ3 (mechanisms).** Through what channels is this inheritance transmitted? Candidate mechanisms include the survival of faith-based facilities as mediators of the community–state health relationship; the intergenerational transmission of health-worker norms; the embedding of health-seeking as a social and religious norm; and, conversely, the legacy of coercive colonial medical campaigns experienced as social control.
+
+**RQ4 (community meaning).** How do people in communities with different colonial health histories themselves understand their relationship with formal healthcare? This question deliberately centres the values, memory, and priorities of communities who are rarely asked to explain their own health-seeking behaviour in historical terms.
+
+### Why this is bold
+
+The boldness of the project is that it reframes a problem the health-systems field treats as contemporary and supply-side as one that is also historical and demand-side. The literature recognises that institutional trust is a critical determinant of whether people seek care (Gilson 2003; Østergaard 2015; Arakelyan et al. 2021), but it lacks a historical account of _why trust varies so sharply across space_. The economic-history literature, in turn, has shown that colonial-era institutions leave deep and persistent imprints — on education (Wantchekon et al. 2015; Nunn 2014), on income and culture (Valencia Caicedo 2019), on trust (Nunn and Wantchekon 2011), and, in the one closely related precedent, on trust in _medicine_ specifically (Lowes and Montero 2021). But this literature has measured _outcomes_ — schooling, income, HIV — rather than the behavioural pathway of community engagement with health systems, and it has not tested missionary medicine at continental scale as a determinant of contemporary health-seeking. No study has joined these two fields: linking the colonial geography of missionary medicine to present-day institutional trust and health-seeking behaviour across Africa, and then asking the harder question — whether that trust gradient is itself the channel through which colonial history still shapes the spatial distribution of disease burden. If the answer is yes, it changes how we explain a major component of health inequality on the continent, and it identifies a lever — trust — that infrastructure spending alone will not move.
+
+### Why this is creative
+
+The creativity lies in the combination and in the source material. I bring together four bodies of evidence that have never been integrated: (i) an original, facility-level historical map of mission medicine; (ii) georeferenced contemporary survey data on behaviour and trust; (iii) high-resolution spatial disease-burden estimates; and (iv) community testimony from qualitative fieldwork. The analytical move that ties them together is a formal mediation design: I do not merely correlate historical exposure with present outcomes, I decompose the effect of historical mission exposure on disease burden into the share running through institutional trust, the share running through health-seeking behaviour, and any residual direct effect (for example, surviving infrastructure or workforce). This turns a plausible historical story into a testable causal pathway. The qualitative component is not decoration: it is the instrument for identifying _which_ mechanisms operate and for letting communities articulate meanings that no survey item captures — including negative legacies that a naïve "missions were good for health" reading would miss.
+
+A second, equally important source of creativity is the historical data itself, and here my approach departs deliberately from the existing literature. Almost all quantitative work on African missions locates missions using digitised Christian missionary _atlases_ — Beach (1903), Roome (1925), Streit — as in the foundational studies by Cagé and Rueda ([2016](https://doi.org/10.1257/app.20140379)) and the recent Stellenbosch work of Brown on Bible translation, which digitises four Protestant and two Catholic atlases ([Brown 2025](https://gabrieljmbrown.com/)). These atlases are invaluable but they are demonstrably incomplete and selective. Jedwab, Meier zu Selhausen and Moradi show, by comparing atlases against the ecclesiastical census returns published in colonial Blue Books, that the atlases omit between 76% and 98% of missions across sub-Saharan Africa, systematically over-representing prominent, early, European-staffed "residence" stations and missing the hinterland — and that this non-random omission biases estimates of mission effects ([Jedwab, Meier zu Selhausen & Moradi 2022](https://doi.org/10.1007/s10887-022-09202-8)). My dataset is built from exactly the source family they identify as the corrective: the colonial Blue Books and ecclesiastical reports — the government-side administrative records that logged missionary hospital and dispensary provision territory by territory, with facility-level detail (building type, location, attendance). I have already done this in my PhD, geo-referencing missionary stations and hospitals from 1924 to 1948 from ecclesiastical reports for Zambia. Scaling this administrative-record method to the continent will produce a health-infrastructure dataset that is both more comprehensive and more accurate for facility locations than any atlas-based source — a genuine contribution to the field independent of my own analysis.
+
+### Why this is high quality, and how I will do it
+
+The programme is organised in four work packages over 60 months.
+
+**WP1 — The dataset (months 1–24).** I will build a continental, facility-level, geo-referenced dataset of colonial missionary health infrastructure (hospitals, dispensaries, and the stations that operated them) from colonial Blue Books and ecclesiastical/missionary-society annual reports, extending the methodology I validated for Zambia. Coverage will prioritise British colonial territories where Blue Book ecclesiastical returns are richest, then extend to comparable administrative and ecclesiastical sources elsewhere. Each facility will carry an opening date, type, operating society, and coordinates, with provenance recorded for every record. The dataset will be validated against existing point sources where they overlap — Cagé and Rueda's atlas data, the "Mapping Missions" data ([Hedde-von Westernhagen & Becker 2022](https://doi.org/10.1163/24523666-bja10027)), and Brown's digitised atlas data — explicitly quantifying the atlas-omission problem documented by [Jedwab, Meier zu Selhausen & Moradi (2022)](https://doi.org/10.1007/s10887-022-09202-8). It will be released open access as a research resource for the wider community.
+
+**WP2 — Trust, behaviour, and burden (months 12–42).** I will link historical exposure to contemporary georeferenced data: individual health-seeking and care-experience measures from IPUMS-DHS ([Minnesota Population Center](https://doi.org/10.18128/D080.V8)) and Afrobarometer (Round 9 covers 53,444 respondents across 39 countries, with detailed items on healthcare access and experience); facility data including faith-based ownership from the public-sector facility database of [Maina et al. (2019)](https://doi.org/10.1038/s41597-019-0142-2) (98,745 facilities, 50 countries) and the WHO AFRO Geodatabase; and high-resolution spatial disease-burden estimates from the IHME Local Burden of Disease project ([Local Burden of Disease Collaborators 2020](https://doi.org/10.1038/s41586-019-1878-8); [Weiss et al. 2019](https://doi.org/10.1016/S0140-6736%2819)31097-9)). I will be careful to model what each source actually measures — Afrobarometer captures access and experience rather than an explicit "trust in health facilities" item, and IHME provides prevalence/mortality at 5×5 km but DALYs at administrative level — and will construct measures accordingly.
+
+**WP3 — Identification and mechanisms (months 24–54).** The core empirical design follows and extends the credible-identification strategies established for this literature. I will combine matching on observable determinants of mission location with an instrumental-variable strategy exploiting differences across missionary societies in their propensity to undertake medical (as opposed to purely evangelical or educational) work — the design used by [Calvi & Mantovanelli (2018)](https://doi.org/10.1016/j.jdeveco.2018.07.009) and [Cagé & Rueda (2016)](https://doi.org/10.1257/app.20140379), and which I have applied in my own published work on Zambia. Crucially, I will distinguish _medical_ missions (with a hospital or dispensary) from missions without health facilities, using the latter as a placebo to isolate the health-specific channel, exactly as Calvi and Mantovanelli do. Because [Jedwab, Meier zu Selhausen & Moradi (2022)](https://doi.org/10.1007/s10887-022-09202-8) show that mission placement was endogenous to healthier, more accessible, richer locations, I will control directly for the determinants they identify (historical malaria, railways, cash-crop suitability, urban access) so that any estimated trust effect is not an artefact of where missions chose to settle. I will then run the mediation analysis decomposing the historical-exposure effect on disease burden into trust and behavioural channels versus a residual direct effect.
+
+**WP4 — Community meaning (months 30–54).** I will carry out qualitative fieldwork — interviews and community discussions — in a purposive sample of communities with contrasting colonial health histories, building on the primary qualitative fieldwork I undertook during my Gothenburg postdoc. This component identifies which mechanisms are operating and surfaces community-articulated meanings, including negative legacies, that the quantitative data cannot capture on their own.
+
+### Feasibility and risk
+
+The programme is ambitious but feasible because its hardest component — the archival construction of a geo-referenced missionary health dataset from ecclesiastical and administrative records — is precisely the work I have already done and published for Zambia. The methods (archival reconstruction, geocoding, matching and IV identification, mixed-methods fieldwork) are established in my own track record, not aspirational. The principal risk is archival coverage: Blue Book and ecclesiastical-report completeness varies by territory. I mitigate this by phasing coverage (richest sources first), recording provenance, validating against existing point datasets, and designing the analysis so that core results hold on the best-covered territories before extension. A second risk — that mission placement endogeneity confounds the trust estimate — is addressed head-on by adopting the controls and identification strategies established by [Jedwab, Meier zu Selhausen & Moradi (2022)](https://doi.org/10.1007/s10887-022-09202-8), [Calvi & Mantovanelli (2018)](https://doi.org/10.1016/j.jdeveco.2018.07.009), and [Cagé & Rueda (2016)](https://doi.org/10.1257/app.20140379). A third — measurement mismatch across data sources — is handled by modelling each variable for what it actually captures rather than what we wish it captured.
+
+### Background and the work that has led to this project
+
+This project is the direct, logical extension of my published research. My doctoral work at Lund University (_Here I Am, Send Me_, 2022; and the open-access monograph, Springer 2024) established that the historical footprint of Christian missions in Zambia can be measured precisely and linked to long-run outcomes. From colonial government annual reports, missionary society administrative records, and published medical-mission surveys, I built an original geo-referenced dataset of missionary health stations in Northern Rhodesia. That dataset underpins two peer-reviewed contributions that prove the two halves of this proposal. In _African Studies_ (Chiseni 2025), I show how missionary colonial healthcare and disease-prevention activity can be reconstructed at fine spatial and temporal resolution from archival sources — the archival and quantitative method I will scale up here. In _Economic History of Developing Regions_ (Chiseni 2024), I demonstrate a credible identification strategy linking colonial missionary exposure to a contemporary health-related outcome (HIV and sexual behaviour), establishing that the long-run causal-inference approach works for health behaviour, not just education or income. I have also led six months of primary qualitative fieldwork in rural Zambia, so the community-facing component rests on demonstrated capacity, not aspiration.
+
+The wider evidence base motivates the design. Spatial inequalities in health _within_ African countries are often as large as inequalities _between_ them: high-resolution mapping shows malaria mortality and child growth failure vary enormously over short distances (Weiss et al. 2019; LBD Collaborators 2020). Trust is repeatedly identified as a mediator of demand that supply-side models miss (Gilson 2003, 2005; Østergaard 2015). And the single closest precedent — Lowes and Montero's (2021) study of French colonial sleeping-sickness campaigns — shows that a coercive colonial medical experience can depress trust in medicine and the uptake of health interventions decades later, with effects specific to the medical domain. My project asks the complementary, larger question for the _missionary_ health system across British colonial Africa, and pushes through trust to disease burden.
+
+### Approach and methods
+
+**Data — the historical map (RQ1).** The foundational original contribution is a comprehensive, geo-referenced dataset of colonial missionary hospitals, dispensaries, and health stations across British colonial Africa, recording facility type, approximate founding and closure dates, bed capacity where available, trained personnel, denominational affiliation, and populations served. No existing resource captures this. The widely used Cagé–Rueda data (2016, 2020) record mission-station presence and broad investment categories but do not disaggregate hospital from dispensary or track facility-level character over time; the valuable _Mapping Missions_ dataset (Hedde-von Westernhagen and Becker 2022) extends station coverage but likewise does not record health-service type or facility characteristics. Because the presence of a mission station is not the same as the presence of a hospital providing sustained curative care, none of these is sufficient to study the health encounter itself. I will build the dataset through systematic archival research drawing on colonial Blue Books and ecclesiastical reports held at the **British Library**, the **LSE Library** (Colonial Records), the **National Archives (Kew)**, **SOAS** (London Missionary Society, Church Missionary Society, Methodist Missionary Society, and White Fathers records), and the **Bodleian Libraries** Oxford (Rhodes House collections), supplemented by digitised collections through the **British Online Archives**. My Zambian dataset provides the validated coding protocol and a benchmark against which to test new digitisation.
+
+**Data — contemporary outcomes (RQ2).** Behaviour and trust are measured from two georeferenced survey programmes. IPUMS-DHS provides individual-level, cluster-georeferenced data on facility utilisation, antenatal-care attendance, vaccination uptake, care-seeking for childhood illness, and place of delivery across many survey rounds, linkable to historical exposure at the (displaced) cluster level. Afrobarometer Round 9 (2021–2023; 53,444 respondents across 39 countries), with earlier rounds, captures the experiential and trust dimensions directly: contact with public clinics, ease of obtaining care, experiences of disrespect and informal payment, and institutional trust items relevant to health. Disease burden is measured from high-resolution geospatial estimates from the IHME Local Burden of Disease programme — mortality and prevalence at roughly 5×5 km resolution for malaria, child illness, and related outcomes (with disability-adjusted life-years available at sub-national administrative level), aggregated to the same cluster geography as the behavioural outcomes. Contemporary facility access is controlled using the KEMRI-Wellcome / WHO spatial database of 98,745 public health facilities across 50 sub-Saharan African countries (Maina et al. 2019), whose faith-based-ownership flag also identifies the likely descendants of former mission hospitals — a key mediating variable — supplemented by the WHO AFRO Geodatabase (launched November 2025) for boundary and facility reference.
+
+**Identification.** The core strategy exploits spatial variation in historical missionary health infrastructure as a source of plausibly exogenous variation in long-run institutional health investment, conditional on appropriate controls. Mission siting was driven largely by proximity to rivers and trade routes, areas of early European contact, and denominational competition for territory — factors plausibly independent of present-day institutional trust once I control for contemporary facility access, income, education, urban/rural location, and country fixed effects. The estimating equation links individual-level health-seeking and trust (Afrobarometer, DHS) and cluster-level disease burden (IHME LBD) to historical missionary health exposure at the cluster level. A second specification then tests whether the missionary-exposure coefficient on disease burden attenuates once trust and health-seeking behaviour are entered as mediators — the formal test of whether the historical trust gradient is the channel, rather than a parallel correlation. I will probe identification with placebo "future-mission" tests, distance-based falsification, sensitivity analysis for unobserved confounding (e.g. Oster bounds), and robustness to alternative exposure definitions.
+
+**Mechanisms (RQ3).** Mechanism analysis proceeds in three stages. First, I test the persistence of faith-based facility ownership as a mediating pathway between historical exposure and contemporary trust. Second, qualitative process tracing in the Zambian case studies identifies the social and cultural channels — health-worker lineages, religious norms, collective memory of colonial medical encounters — through which experience is transmitted. Third, formal mediation analysis decomposes the missionary-exposure effect on disease burden into shares operating through trust, through behaviour, and any residual direct effect.
+
+**Community voice and qualitative design (RQ4).** Phase 3 conducts qualitative research in four purposively selected Zambian communities: two historically served by missionary hospitals operating across the colonial period, and two without such exposure but with comparable contemporary facility access. Semi-structured interviews with community health workers, local health officials, traditional leaders, elderly residents with living memory of mission medicine, and younger residents explore how colonial health histories are remembered, transmitted, and expressed today. Sex-disaggregated focus groups provide direct evidence on how gender shapes the inheritance of colonial health relationships — important given the strongly gendered character of missionary maternal medicine. Communities will be involved in interpreting and validating findings, and in shaping the policy outputs.
+
+### Addressing challenges and risks
+
+_Archival incompleteness and bias._ Colonial and missionary records are uneven and were produced for institutional purposes. I will triangulate across government, denominational, and medical-survey sources; record provenance and confidence for every facility; and publish the dataset with full documentation of gaps. My published Northern Rhodesia work demonstrates this is tractable.
+
+_Causal identification._ Historical persistence claims are vulnerable to omitted variables. I mitigate this with rich controls, country fixed effects, falsification and placebo tests, sensitivity bounds, and convergent qualitative evidence on mechanisms. The aim is a credible, transparent, well-bounded estimate, not a false claim of perfect exogeneity.
+
+_Spatial linkage and displacement._ DHS cluster coordinates are deliberately displaced. I will use established methods for exposure measurement under positional uncertainty (buffer zones, distance bands, sensitivity to displacement radius) so results are robust to it.
+
+_Ecological inference._ Because some outcomes are spatial aggregates, I will be careful to align the unit of analysis, retain individual-level estimation where possible (DHS, Afrobarometer), and avoid over-claiming at the individual level from grid-cell burden data.
+
+### Key stages, location, and milestones (48 months)
+
+- **Phase 1 — Historical dataset construction (months 1–8):** archival research at SOAS (London Missionary Society, Church Missionary Society, Methodist Missionary Society, and White Fathers records), National Archives (Kew), London School of Economics Colonial Archive, Bodleian Libraries Oxford (Rhodes House collections), and the British Online Archives; coding and geocoding; validation against the Zambian benchmark. _Milestone: v1 continental missionary-health dataset and draft of data paper (month 8)._
+- **Phase 2 — Quantitative analysis (months 8-20):** linkage of DHS, Afrobarometer, KEMRI-WHO facility data, and IHME LBD to historical exposure; main and mediation models. _Milestone: first empirical article on trust and health-seeking submitted (month 20)._
+- **Phase 3 — Qualitative fieldwork in Zambia (months 20-26):** four community case studies; interviews and focus groups; community validation. _Milestone: fieldwork complete and coded (month 26)._
+- **Phase 4 — Mechanisms, synthesis, integration (months 26- 38):** mixed-methods integration; mediation decomposition; disease-burden article. _Milestone: disease-burden / mediation article submitted (month 38)._
+- **Phase 5 — Dissemination and capacity (months 38–48):** peer-reviewed articles, open dataset release, policy briefs co-produced with communities and a public-health partner, and skills transfer. _Milestone: dataset publicly released and policy briefs published (month 48)._
+
+### Expected outcomes
+
+By the end of the award I will have delivered: (1) the first openly available, continental-scale, facility-level dataset of colonial missionary health infrastructure — an enabling resource for a generation of researchers; (2) the first large-scale evidence on whether colonial missionary medicine shaped contemporary institutional trust and, through it, disease burden; (3) a demand-side, historically grounded contribution to health-systems research; (4) community-centred qualitative evidence on how health histories are lived and remembered; and (5) policy-relevant findings on where low utilisation reflects a historically rooted trust deficit rather than poverty or distance — with implications for how health communication, community-health-worker programmes, and facility governance should be designed. The programme also establishes me as an independent leader bridging economic history, health-systems research, and spatial epidemiology — a distinctive niche with a clear forward research agenda.
+
+_(Word count of this Research Vision: approx. 2,400 words — within the 3,000-word limit, leaving room to add host-specific or methodological detail once the institution is confirmed.)_
+
+## ADDITIONAL INFORMATION (max 2 A4 pages + Gantt)
+
+_To be supplied as a separate two-page PDF. Suggested contents:_
+
+1.  **Figure 1.** Schematic of the analytical framework: historical mission exposure → institutional trust / health-seeking behaviour → disease burden, with the mediation decomposition.
+2.  **Figure 2.** Illustrative map: the validated Zambian missionary-health dataset (proof of feasibility) and the proposed continental coverage.
+3.  **Table 1.** Data sources matrix: source, what it measures, geography, resolution, role in the design.
+4.  **Gantt chart.** The five phases across 60 months with milestones (does not count toward the two-page limit).
+
+## GENERATIVE AI DECLARATION
+
+**Have you used generative AI in the writing of your application?**
+
+_\[ACTION — your decision.\] Wellcome's policy: answer "No" if AI was used only to translate from another language or to improve the standard of English. Answer "Yes" and give brief details if AI contributed to the substance._
+
+Suggested wording if you answer **Yes**: "Generative AI tools were used to assist with structuring and language editing of the application, to cross-check the formatting of references, and to help verify the bibliographic details of cited literature and datasets. All research ideas, the conceptual framework, the analytical design, and the scholarly judgements are the applicant's own, building directly on the applicant's published work. All cited references and datasets were checked against primary sources."
+
+## RESEARCH INVOLVING HUMAN PARTICIPANTS
+
+**Does your proposal involve human participants, human biological material, or data about living people?**
+
+Yes. The project uses (a) secondary, non-fully-anonymised individual survey data (DHS, Afrobarometer) and (b) primary qualitative data from interviews and focus groups in Zambia.
+
+**Does your proposal involve a clinical trial?** No.
+
+### Details of study design (max 800 words)
+
+This is a mixed-methods observational study with no intervention, manipulation, or clinical procedure. It has two empirical components.
+
+**(1) Secondary quantitative analysis.** The project re-analyses existing, de-identified survey microdata. From IPUMS-DHS, the relevant samples are women of reproductive age and their children across sub-Saharan African DHS rounds, with health-seeking outcomes (facility delivery, antenatal care, vaccination, care-seeking for childhood illness). From Afrobarometer (principally Round 9, 53,444 respondents across 39 countries, with Rounds 7–8 for robustness), the relevant respondents are nationally representative adult samples, with outcomes on healthcare contact, experience, and institutional trust. No participants are recruited or allocated to groups for the quantitative work; "exposure" is the historical missionary-health infrastructure attached to a respondent's georeferenced cluster, not an assigned condition. Sex and gender are treated as substantive variables: gendered patterns of trust and utilisation are a core research question (RQ3/RQ4), motivated by the gendered character of missionary maternal medicine, and all models will be estimated with sex-disaggregated specifications. Disease-burden outcomes come from modelled IHME LBD estimates at the cluster geography. Statistical power is not a recruitment question here; the relevant consideration is the precision of the linked-cluster estimates, which is high given the scale of DHS and Afrobarometer combined with continental historical coverage. Protection against bias is addressed through pre-specified models, country fixed effects, falsification/placebo tests, sensitivity bounds for unobserved confounding, and robustness to cluster-coordinate displacement.
+
+**(2) Primary qualitative fieldwork (Zambia).** Four purposively selected communities (two historically mission-served, two comparison) will host approximately 40–60 semi-structured interviews in total (community health workers, local health officials, traditional leaders, elderly residents with living memory of mission medicine, and younger residents) and 8 focus-group discussions (sex-disaggregated, two per community). Interviews and focus groups last roughly 45–90 minutes, audio-recorded with consent, transcribed and, where needed, translated. This is participant observation and interviewing only — there are no biological samples, screening procedures, biometric measures, or behavioural treatments. Follow-up is limited to a community-validation visit to share and check interpretations. The only activity with any participant sensitivity is the recollection of historical experiences of colonial medicine, which will be handled with trained, locally embedded researchers, clear withdrawal rights, and culturally appropriate protocols developed with local leaders. The country where primary research takes place is Zambia; secondary data span sub-Saharan Africa.
+
+### Recruitment, inclusion and exclusion (max 300 words)
+
+For the qualitative component, recruitment is purposive and community-led. Communities are selected on historical missionary-health exposure and comparable contemporary facility access (using the KEMRI-WHO facility database and my historical dataset). Within communities, participants are identified with the help of local health officials, traditional leadership, and community health workers, with deliberate sampling for age (to capture living memory and younger perspectives), sex (sex-disaggregated focus groups), and role. Inclusion: adults (18+) resident in the community able to give informed consent; for the "living memory" stratum, older residents with direct or family recollection of mission-era healthcare. Exclusion: individuals unable to give informed consent; and, for safeguarding, anyone for whom participation would pose distress. To avoid elite capture and ensure under-served voices are heard, I will sample beyond leadership networks (e.g. women's groups, peripheral households) and offer interviews in local languages. The quantitative component uses existing survey samples and inherits their nationally representative sampling frames; no separate recruitment occurs.
+
+### Patient/community involvement (max 200 words)
+
+Community engagement is integral, not retrospective. In the design phase I will consult Zambian community health workers, traditional leaders, and a local research partner (e.g. the Southern Africa Institute for Policy and Research) to refine the qualitative protocol and ensure questions are framed in locally meaningful terms. During the award, the four study communities are involved through a validation stage in which preliminary interpretations are shared and tested with participants, and through co-production of accessible community-facing summaries. Communities and local health officials will help shape the policy briefs so that recommendations reflect lived priorities rather than external assumptions. This engaged approach follows Wellcome's guidance on engaged research and reflects the project's core commitment (RQ4) to letting communities explain their own health-seeking behaviour. I will budget for community feedback meetings and local-language materials. Ongoing involvement continues through dissemination, with results returned to participating communities before academic publication.
+
+### Oversight arrangements (max 300 words)
+
+As an observational, non-clinical study, the project does not require a Trial Steering Committee or Data and Safety Monitoring Board. Instead I will establish a small **Project Advisory Group** meeting twice a year, comprising: my sponsor and mentor at the host institution; an African-based public-health or health-systems researcher; a qualitative-methods/ethics adviser; and a community or civil-society representative from Zambia. The group will review progress against milestones, data-management and ethics compliance, the conduct of fieldwork, and the appropriateness of community engagement and dissemination. Day-to-day oversight rests with me as lead applicant, with the sponsor responsible for institutional governance and resources. Fieldwork will be supervised in-country in partnership with the local research partner, with clear escalation routes for any participant concern. Data governance (storage, access, retention) follows the host institution's research-data policy and the outputs-management plan below. This proportionate structure matches the project's low participant-risk profile while ensuring independent scrutiny of method, ethics, and community engagement.
+
+### Ethics and regulatory approvals (max 200 words)
+
+Before any primary research begins I will obtain ethical approval in every jurisdiction where research is conducted. In Zambia, qualitative fieldwork requires approval from a national research ethics committee (e.g. ERES Converge IRB or the University of Zambia Biomedical Research Ethics Committee) and authorisation from the National Health Research Authority (NHRA), plus community-level permissions from local leadership. At the host institution I will obtain the relevant institutional ethics approval covering both the secondary-data analysis and the fieldwork. Use of DHS and Afrobarometer microdata is governed by each programme's data-use agreement; both are de-identified, and I will comply fully with their access and publication terms. All processing of personal data complies with applicable data-protection law in the host jurisdiction and in Zambia (the Data Protection Act 2021). As a researcher who will be working with data and conducting fieldwork outside the UK, I will document the applicable laws and guidelines in each jurisdiction and how I will comply. No biological samples are collected. Approvals will be secured before the relevant phase starts; secondary-data analysis can begin under data-use agreements while fieldwork approvals are finalised.
+
+### Use of the NHS (UK)
+
+No. The project does not use NHS facilities, staff, or patients. A SoECAT is therefore not required.
+
+### Formal sponsor (max 100 words)
+
+**\[ACTION — to confirm with host.\]** The formal sponsor will be the administering organisation (**\[HOST\]**), which will assume responsibility for governance of the research involving human participants and data, as required by Wellcome. Wellcome cannot act as sponsor. Confirmation of sponsorship will be provided once the host institution is finalised. Sponsor has been contacted and has joined the online application and organization has been added as administering organization
+
+### Commercially exploitable results from human data
+
+Not applicable. The project produces academic and policy outputs from secondary survey microdata and primary qualitative data. It does not generate commercially exploitable results from human data, tissues, or samples, and there is no anticipated commercial future use. Consent procedures for the qualitative component cover research and non-commercial dissemination only.
+
+### Risks of research misuse
+
+No tangible dual-use risks of the type Wellcome describes (e.g. enhancing pathogen virulence, evading detection, weaponisation) arise from this social-science research. Data-reidentification and safeguarding risks are managed through research design, the data-management plan, and institutional safeguarding policy rather than treated as dual-use risks, per the guidance.
+
+### Freedom to operate and conflicts of interest
+
+Not applicable / low. The project uses publicly available or licensed datasets (DHS, Afrobarometer, IHME, KEMRI-WHO, WHO AFRO) under their standard data-use terms, and archival sources accessed under each repository's conditions. No patented technology or third-party proprietary materials are required, and there are no agreements that would restrict sharing the resulting outputs. The new historical dataset will be created by the applicant and released openly (see outputs plan); any third-party source material will be documented and respected. The applicant declares no financial conflicts of interest.
+
+### Environmental sustainability (max 300 words)
+
+The project's footprint is modest and dominated by archival and fieldwork travel; I will design to minimise it. **Reduce/reuse/recycle:** the work is overwhelmingly desk- and archive-based, using existing digital datasets — no laboratory consumables, equipment, or single-use materials are required. Computation (spatial linkage, modelling) will use the host institution's shared, energy-managed research computing rather than dedicated hardware, and I will reuse existing open datasets rather than generating new large-scale data collection beyond the targeted fieldwork. **Travel and emissions:** archival visits across SOAS, the Bodleian, and African national archives, plus Zambian fieldwork, are the main source of emissions. I will cluster archival trips to minimise the number of journeys, prioritise rail over air within the UK and Europe, combine African archival work with fieldwork into single trips where feasible, and conduct preparatory and follow-up meetings remotely. Where archives offer digitised collections or remote-reproduction services, I will use them in place of travel. Fieldwork will employ locally based research assistants, reducing long-haul travel and strengthening local capacity. **Measurement:** I will track grant-related travel emissions using the host institution's carbon-accounting tool (or an equivalent identified in the RAND Europe review) and report against a simple annual travel-emissions budget reviewed by the Project Advisory Group. Conferences will favour regional or virtual participation, with at most one or two essential long-haul academic trips across the award, offset where the host scheme allows. Dissemination will be digital-first (open-access articles, online dataset, downloadable policy briefs). These measures are built into the workplan and the costing.
+
+**Total additional cost of working sustainably:** 0 _(the sustainable approach is the default design; no additional cost is requested)._
+
+## OUTPUTS MANAGEMENT AND SHARING (max 500 words)
+
+**What outputs will the research generate?** (1) An original, continental-scale, geo-referenced dataset of colonial missionary health facilities (the flagship output); (2) peer-reviewed articles; (3) anonymised/processed analysis code; (4) de-identified qualitative data summaries (subject to consent and ethics); (5) policy briefs and community-facing summaries. The project does not create new individual-level survey data; it re-uses licensed datasets under their terms.
+
+**Metadata and documentation.** The historical dataset will be released with a full data paper (planned for a recognised data journal such as _Scientific Data_ or the _Research Data Journal for the Humanities and Social Sciences_), a codebook, source-provenance and confidence fields for each facility, geocoding methodology, and the coding protocol validated against my Zambian benchmark. Analysis code will be documented and version-controlled.
+
+**When and where available.** The historical dataset will be released openly on publication of the first paper that uses it, and no later than the end of the award, via an established repository (e.g. Harvard Dataverse, the UK Data Service, or Zenodo) with a DOI. Articles will be open access (gold or green) in line with Wellcome's open-access policy, with accepted manuscripts deposited in Europe PMC where in scope, or in a recognised repository for social-science/humanities outputs. Code will be released on a public repository (e.g. GitHub, archived to Zenodo).
+
+**Discovery and access.** Outputs will be discoverable via DOIs, the project's institutional pages, ORCID, conference presentations, and a short dataset-launch communication. Policy briefs will be shared with relevant African ministries of health, the local research partner, and participating communities.
+
+**Restrictions.** The new historical dataset has no personal-data content and will be fully open under a permissive licence (e.g. CC BY). Restrictions apply only to third-party inputs governed by their own terms: DHS and Afrobarometer microdata cannot be redistributed (users obtain them directly under each programme's agreement), and primary qualitative transcripts will not be shared in raw form to protect participant confidentiality — instead, de-identified excerpts and thematic coding frameworks will be shared where consent allows.
+
+**Storage, backup, preservation.** Active data are held on the host institution's managed, backed-up research storage with access controls; identifiable qualitative data are stored separately under restricted access and retained per the institution's policy and ethics approval. Final open outputs are preserved in DOI-issuing repositories for long-term access.
+
+**Resources.** Outputs management is built into the workplan and budget: time for data documentation and the data paper (Phases 1 and 5), repository deposit costs, and open-access charges are included in the requested research expenses. I have direct experience producing and documenting geo-referenced datasets from colonial sources.
+
+**Intellectual property.** The research generates no patentable IP. The principal IP is the copyright/database right in the new historical dataset, which will be released openly to maximise health and research benefit, consistent with Wellcome's expectations and grant condition 8.
+
+**Approach to maximise impact:** Open data and open-access publication, combined with policy translation and community engagement.
+
+## APPLICANT DETAILS (key entries)
+
+- **PhD completed:** Yes — PhD in Economic History, Lund University; viva passed 29 August 2022.
+- **Equivalent research experience:** PhD plus postdoctoral fellowship (University of Gothenburg, 2023–2026); within the early-career window. _\[ACTION: confirm your postdoctoral end date and that ≤3 years' postdoctoral experience falls within the scheme's window at the deadline; if not, note any career factors Wellcome should consider.\]_
+- **Part-time?** No (anticipated full-time; ≥80% research time on this project).
+- **Healthcare professional?** No.
+- **Time on research during the grant:** ≥80%. **Of that, on this project:** ~100%.
+- **Current and recent funding (last 5 years):** _\[ACTION: list your postdoctoral fellowship funding at Gothenburg and any other grants — funder, title, amount, your role, dates, % time. State clearly this proposal is distinct.\]_
+
+## YOUR RESEARCH CONTRIBUTIONS
+
+### How have you contributed to the generation of knowledge? (max 1,000 words)
+
+My research has opened a distinctive line of work at the intersection of African economic history, the history of medicine, and the long-run determinants of health behaviour. The unifying contribution is methodological and substantive: I have shown that the historical footprint of Christian missions in Africa can be reconstructed at fine spatial and temporal resolution from archival sources, and that this footprint can be credibly linked to long-run health and human-capital outcomes. This is precisely the capability the proposed programme scales to continental level.
+
+In my doctoral research I built an original geo-referenced dataset of missionary activity — including health stations — in colonial Zambia (Northern Rhodesia) from colonial government annual reports, missionary society administrative records, and published medical-mission surveys, and used it to estimate long-run effects. This required combining archival history, geographic information systems, and applied econometrics — the exact skill set this project demands. The work established protocols for coding facility type, location, denomination, and period, and for validating digitised historical data, which I will re-use and extend.
+
+I have translated this into peer-reviewed outputs that demonstrate both halves of the proposed design — the archival/measurement half and the causal-inference half — and I have shown I can carry primary qualitative fieldwork in the same setting. Below are my most significant outputs.
+
+**Selected outputs (most significant first):**
+
+1.  Chiseni, M.C. (2025). "Healing the Nation: Christian Missionaries, Colonial Healthcare and Disease Prevention in Northern Rhodesia 1924–1960." _African Studies_, 84(1–2), 1–27. DOI: 10.1080/00020184.2025.2533952. — _Establishes the archival and quantitative method for reconstructing missionary healthcare provision; the direct methodological foundation for this project's dataset. Sole author._
+2.  Chiseni, M.C. (2024). "The Sins of the Church: The Long-Term Impacts of Christian Missionary Praxis on HIV and Sexual Behaviour in Zambia." _Economic History of Developing Regions_, 39(1), 49–81. DOI: 10.1080/20780389.2023.2243036. — _Demonstrates a credible identification strategy linking colonial missionary exposure to a contemporary health outcome; proof that the long-run causal approach works for health behaviour. Sole author._
+3.  Chanda Chiseni, M. (2024). _The Economic Impact of Christian Missionaries in Zambia: A Historical and Long-Term Perspective, 1924–2018_. Springer (open access). DOI: 10.1007/978-3-031-65304-9. — _Sole-authored monograph synthesising the historical dataset and long-run analysis; shows capacity to deliver a large, multi-year, data-intensive research programme to completion. Sole author._
+4.  Chanda Chiseni, M. (2022). _Here I Am, Send Me: The Historical and Long-Term Impact of Christian Missionaries in Zambia 1924–2018_. PhD thesis, Lund University. ISBN 978-91-87793-82-0. — _The doctoral foundation; built the original geo-referenced missionary dataset and the analytical framework extended here._
+5.  Chiseni, M.C., and Bolt, J. (2024). "The Origins of Formal Educational and Gender Inequality in Zambia, 1924–1990." _Revista de Historia Industrial — Industrial History Review_, 33(92), 49–92. — _Shows command of gendered long-run analysis of colonial-era institutions; directly relevant to the project's gender dimension (RQ3/RQ4). Co-authored; I led the data construction and empirical analysis._
+6.  Primary qualitative fieldwork, rural Zambia (2024). — _Six-month fieldwork programme during my Gothenburg postdoc; demonstrates capacity to design and lead community-based qualitative data collection in the proposed setting._
+
+_\[ACTION: add any further outputs, working papers (e.g. Bolt, Baumert, Chiseni & Show on institutionalised healthcare and education in Cameroon and Zambia), datasets, or invited talks, up to 10 total, each ≤50 words, with your contribution stated.\]_
+
+**Skills used to develop and test ideas.** I combine archival historical research, construction and validation of geo-referenced datasets, spatial analysis (ArcGIS, QGIS), applied econometric identification (Stata, R), and qualitative fieldwork and analysis. The proposed project develops these further — scaling dataset construction across multiple national archives, deepening causal-mediation methods, and integrating qualitative and quantitative evidence in a single design — and adds the people-management and programme-leadership capabilities expected by the end of the award.
+
+### How have you contributed to the wider research community? (max 250 words)
+
+_\[ACTION: confirm/expand the specifics below from your own record.\]_ I have presented my research at economic-history and African-studies conferences and seminars, contributing to scholarly debate on the long-run legacies of colonialism and missions in Africa. I have undertaken peer review for journals in economic history and development, and I contribute to building research capacity through collaboration with African-based institutions, including as a research fellow affiliated with the Southern Africa Institute for Policy and Research in Zambia, which connects my work to local research and policy communities. I have collaborated across disciplines and institutions — including co-authored work with colleagues at Lund and Gothenburg — and have supported teaching and mentoring during my doctoral and postdoctoral appointments. Through open-access publication of my monograph and my commitment to releasing geo-referenced datasets, I actively contribute reusable resources to the field. During this award I will expand these contributions by releasing a major open dataset, mentoring fieldwork assistants and any junior researchers on the grant, and convening exchange between economic historians, health-systems researchers, and African public-health partners.
+
+## RESEARCH ENVIRONMENT
+
+### Your research environment details
+
+I will be hosted by **Stellenbosch University** in the Department of Economics, within the **Laboratory for the Economics of Africa's Past (LEAP)** — the leading research group for African economic history and one of the strongest environments in the world for exactly this kind of long-run, data-intensive, archivally grounded work on the continent. Stellenbosch offers the specific combination this interdisciplinary programme requires: deep concentration of expertise in African economic history and the quantitative analysis of colonial-era data; an active community digitising and analysing historical African sources (including missionary and colonial administrative records); access to research computing and spatial-analysis infrastructure; and established links with African research partners across the continent. Recent and ongoing work at LEAP — including the digitisation of missionary sources and the analysis of mission legacies, such as Brown's study of Bible translation and missionary expansion— means I will be embedded in a group already engaged with the source materials and methods at the heart of my project, while my facility-level, administrative-records approach to _health_ infrastructure and _institutional trust_ opens a distinct line that complements rather than duplicates existing work there.
+
+My **sponsor and mentor** will be **Professor Johan Fourie** (Department of Economics, Stellenbosch University; founder of LEAP), one of the world's leading African economic historians, whose work spans the long-run economic history of Africa, the data revolution in African economic history, and historical living standards. Professor Fourie holds an established post at Stellenbosch and will guarantee the space, resources, and research time I need across the full award, and ensure the environment supports my development. Deliberately moving to Stellenbosch — distinct from my doctoral (Lund) and postdoctoral (Gothenburg) environments — gives me intellectual independence and exposure to new methods, networks, and a concentration of African economic-history expertise I cannot access elsewhere (in line with Wellcome's encouragement to move research environment). The setting will help me develop my research identity by situating my economic-history training within a world-class African-history research community, building the spatial-epidemiology and mixed-methods skills the project demands, and giving me the mentorship, collaborative network, and people-management opportunities to be ready to lead my own independent programme by the end of the grant.
+
+**How will you contribute to a positive and inclusive research culture? (max 300 words)**
+
+I will contribute to a positive and inclusive research culture in three concrete ways. **People and collaboration:** I will recruit and supervise locally based research assistants for the fieldwork and archival work on fair, capacity-building terms — investing in their skills, co-authoring where appropriate, and ensuring African colleagues are partners rather than data-gatherers. I will work openly with collaborators across economic history, health-systems research, and African public health, and convene at least one cross-disciplinary workshop. **Integrity and openness:** I will complete and promote research-integrity and data-management training, pre-register analyses where appropriate, and release the historical dataset open access so others can build on and scrutinise it. **Equity and wellbeing:** I will be attentive to the ethics of working with communities on sensitive health histories, to fair authorship and credit, to the wellbeing of fieldwork staff and participants, and to inclusive practice in how the team works. I will also contribute to my host's wider culture through seminar participation, peer review, mentoring of more junior colleagues, and constructive, supportive engagement with peers. _\[ACTION: add any host-specific EDI initiatives, mentoring schemes, or culture activities at Stellenbosch/LEAP you intend to join.\]_
+
+## RESEARCH PROPOSAL COSTS
+
+**\[ACTION — to be finalised with the host finance office. Indicative structure only. The scheme provides your salary plus up to £400,000 research expenses; certain costs sit outside the £400k cap — check the scheme's "Research costs we'll cover".\]**
+
+Indicative cost categories and justification:
+
+- **Salary** (applicant; full economic costing per host policy) — to enable ≥80% research time on the project.
+- **Archival research travel and subsistence** — clustered trips to SOAS, the Bodleian Libraries, and national archives in Zambia, Kenya, Ghana, and Nigeria; reproduction/digitisation fees.
+- **Fieldwork costs (Zambia)** — locally based research assistants, transcription and translation, participant/community-meeting costs, local travel, ethics/approval fees.
+- **Research computing / software** — spatial and statistical software licences where not institutionally provided; storage.
+- **Data documentation and dissemination** — data-paper and repository/deposit costs, open-access charges, policy-brief production, community-facing materials.
+- **Advisory Group and one cross-disciplinary workshop.**
+- **Training** — targeted short courses in spatial epidemiology / mixed-methods integration to develop new skills during the award.
+- **Sustainability** — built into the default design; no additional cost requested.
+
+_Full economic costing and a detailed justification will be completed with the host's research-finance team once the administering organisation is confirmed._
+
+## INFORMATION FOR EXPERT REVIEW — Reviewer suggestions
+
+**\[ACTION — optional. You may suggest expert reviewers (and exclusions). Avoid close collaborators and recent co-authors. Candidate fields to draw from:\]** long-run African economic history and missionary legacies; health-systems research on trust and health-seeking in sub-Saharan Africa; spatial epidemiology / disease-burden mapping; and the history of colonial medicine. _Do not list anyone with a conflict of interest; follow Wellcome's guidance on suggesting reviewers._
+
+## REFERENCES
+
+_Cited in full per Wellcome's requirement (title, all authors, journal, year, volume, pages). Listed alphabetically._
+
+1.  Arakelyan, S., Jailobaeva, K., Dakessian, A., Diaconu, K., Caperon, L., Strang, A., Bou-Orm, I.R., Witter, S., and Ager, A. "The Role of Trust in Health-Seeking for Non-Communicable Disease Services in Fragile Contexts: A Cross-Country Comparative Study." _Social Science & Medicine_, vol. 291, 2021, article 114512. DOI: 10.1016/j.socscimed.2021.114512.
+2.  Cagé, J., and Rueda, V. "The Long-Term Effects of the Printing Press in Sub-Saharan Africa." _American Economic Journal: Applied Economics_, vol. 8, no. 3, 2016, pp. 69–99. DOI: 10.1257/app.20140379.
+3.  Cagé, J., and Rueda, V. "Sex and the Mission: The Conflicting Effects of Early Christian Missions on HIV in Sub-Saharan Africa." _Journal of Demographic Economics_, vol. 86, no. 3, 2020, pp. 213–257. DOI: 10.1017/dem.2020.2.
+4.  Chanda Chiseni, M. _Here I Am, Send Me: The Historical and Long-Term Impact of Christian Missionaries in Zambia 1924–2018._ PhD thesis, Lund University, 2022. ISBN 978-91-87793-82-0.
+5.  Chanda Chiseni, M. _The Economic Impact of Christian Missionaries in Zambia: A Historical and Long-Term Perspective, 1924–2018._ Springer, Cham, 2024. DOI: 10.1007/978-3-031-65304-9.
+6.  Chiseni, M.C. "The Sins of the Church: The Long-Term Impacts of Christian Missionary Praxis on HIV and Sexual Behaviour in Zambia." _Economic History of Developing Regions_, vol. 39, no. 1, 2024, pp. 49–81. DOI: 10.1080/20780389.2023.2243036.
+7.  Chiseni, M.C. "Healing the Nation: Christian Missionaries, Colonial Healthcare and Disease Prevention in Northern Rhodesia 1924–1960." _African Studies_, vol. 84, no. 1–2, 2025, pp. 1–27. DOI: 10.1080/00020184.2025.2533952.
+8.  Chiseni, M.C., and Bolt, J. "The Origins of Formal Educational and Gender Inequality in Zambia, 1924–1990." _Revista de Historia Industrial — Industrial History Review_, vol. 33, no. 92, 2024, pp. 49–92.
+9.  Gilson, L. "Trust and the Development of Health Care as a Social Institution." _Social Science & Medicine_, vol. 56, no. 7, 2003, pp. 1453–1468. DOI: 10.1016/S0277-9536(02)00142-9.
+10. Gilson, L. "Building Trust and Value in Health Systems in Low and Middle Income Countries." _Social Science & Medicine_, vol. 61, no. 7, 2005, pp. 1381–1384. DOI: 10.1016/j.socscimed.2004.11.059.
+11. Hedde-von Westernhagen, C., and Becker, B. "Mapping Missions: New Data for the Study of African History." _Research Data Journal for the Humanities and Social Sciences_, vol. 7, 2022, pp. 1–33. DOI: 10.1163/24523666-bja10027.
+12. Local Burden of Disease Child Growth Failure Collaborators. "Mapping Child Growth Failure across Low- and Middle-Income Countries." _Nature_, vol. 577, 2020, pp. 231–234. DOI: 10.1038/s41586-019-1878-8.
+13. Lowes, S., and Montero, E. "The Legacy of Colonial Medicine in Central Africa." _American Economic Review_, vol. 111, no. 4, 2021, pp. 1284–1314. DOI: 10.1257/aer.20180284.
+14. Maina, J., Ouma, P.O., Macharia, P.M., Alegana, V.A., Mitto, B., Fall, I.S., Noor, A.M., Snow, R.W., and Okiro, E.A. "A Spatial Database of Health Facilities Managed by the Public Health Sector in Sub-Saharan Africa." _Scientific Data_, vol. 6, no. 1, 2019, article 134. DOI: 10.1038/s41597-019-0142-2.
+15. Minnesota Population Center. _IPUMS-DHS: Version 8_ \[dataset\]. IPUMS, Minneapolis, MN, 2022. DOI: 10.18128/D080.V8.
+16. Nunn, N. "The Long-Term Effects of Africa's Slave Trades." _The Quarterly Journal of Economics_, vol. 123, no. 1, 2008, pp. 139–176. DOI: 10.1162/qjec.2008.123.1.139.
+17. Nunn, N. "Gender and Missionary Influence in Colonial Africa." In _Africa's Development in Historical Perspective_, edited by E. Akyeampong, R.H. Bates, N. Nunn, and J.A. Robinson, pp. 489–512. Cambridge University Press, 2014. DOI: 10.1017/CBO9781139022484.016.
+18. Nunn, N., and Wantchekon, L. "The Slave Trade and the Origins of Mistrust in Africa." _American Economic Review_, vol. 101, no. 7, 2011, pp. 3221–3252. DOI: 10.1257/aer.101.7.3221.
+19. Østergaard, L.R. "Trust Matters: A Narrative Literature Review of the Role of Trust in Health Care Systems in Sub-Saharan Africa." _Global Public Health_, vol. 10, no. 9, 2015, pp. 1046–1059. DOI: 10.1080/17441692.2015.1019538.
+20. Valencia Caicedo, F. "The Mission: Human Capital Transmission, Economic Persistence, and Culture in South America." _The Quarterly Journal of Economics_, vol. 134, no. 1, 2019, pp. 507–556. DOI: 10.1093/qje/qjy024.
+21. Wantchekon, L., Klašnja, M., and Novta, N. "Education and Human Capital Externalities: Evidence from Colonial Benin." _The Quarterly Journal of Economics_, vol. 130, no. 2, 2015, pp. 703–757. DOI: 10.1093/qje/qjv001.
+22. Weiss, D.J., Lucas, T.C.D., Nguyen, M., Nandi, A.K., Bisanzio, D., Battle, K.E., et al. "Mapping the Global Prevalence, Incidence, and Mortality of _Plasmodium falciparum_, 2000–17: A Spatial and Temporal Modelling Study." _The Lancet_, vol. 394, no. 10195, 2019, pp. 322–331. DOI: 10.1016/S0140-6736(19)31097-9.
