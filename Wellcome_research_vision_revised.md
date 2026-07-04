@@ -52,7 +52,17 @@ The programme is ambitious but feasible because its hardest component, the archi
 
 The principal risks are handled directly. Archival completeness varies by territory: I phase coverage (richest sources first), record provenance and confidence for every facility, triangulate government, denominational, and medical-survey sources, and publish full documentation of gaps. Mission-placement endogeneity is addressed by the controls and identification strategies of Jedwab, Meier zu Selhausen and Moradi (2022), Calvi and Mantovanelli (2018), and Cagé and Rueda (2016), with placebo and falsification tests and sensitivity bounds. Spatial linkage under deliberate DHS displacement is handled with established methods (buffer zones, distance bands, sensitivity to displacement radius). For ecological inference, I retain individual-level estimation where possible (DHS, Afrobarometer) and avoid over-claiming at the individual level from grid-cell burden data.
 
-## Track record
+## Key stages, location, and milestones
+
+I will be hosted at Stellenbosch University (Laboratory for the Economics of Africa's Past), with archival work in the United Kingdom and fieldwork in Zambia.
+
+- **Phase 1, dataset construction (months 1 to 18), UK archives:** archival research at the British Library, SOAS, the National Archives (Kew), the LSE Library (Colonial Records), and the Bodleian Libraries, with research-assistant-supported coding and geocoding, and validation against the Zambian benchmark. *Milestone: v1 dataset for British colonial Africa and draft data paper (month 18).*
+- **Phase 2, quantitative analysis (months 12 to 30), Stellenbosch:** linkage of DHS, Afrobarometer, facility, and IHME data to historical exposure; main and mediation models. *Milestone: first empirical article submitted (month 30).*
+- **Phase 3, qualitative fieldwork (months 20 to 32), Zambia:** four community case studies with interviews and focus groups, and community validation (ethics approvals initiated in month 1). *Milestone: fieldwork complete and coded (month 32).*
+- **Phase 4, mechanisms and synthesis (months 30 to 42), Stellenbosch:** mixed-methods integration and mediation decomposition. *Milestone: disease-burden and mediation article submitted (month 42).*
+- **Phase 5, dissemination and capacity (months 42 to 48):** open dataset release and policy briefs co-produced with communities and a public-health partner. *Milestone: dataset publicly released and policy briefs published (month 48).*
+
+## Background and the work leading to this project
 
 This project is the direct extension of my published research. My doctoral work at Lund University (*Here I Am, Send Me*, 2022; open-access monograph, Springer 2024) established that the historical footprint of Christian missions in Zambia can be measured precisely and linked to long-run outcomes, from an original geo-referenced dataset of missionary health stations in Northern Rhodesia. Two peer-reviewed contributions prove the two halves of this proposal. In *African Studies* (Chiseni 2025) I show how missionary colonial healthcare can be reconstructed at fine spatial and temporal resolution from archival sources, the method I scale here. In *Economic History of Developing Regions* (Chiseni 2024) I demonstrate a credible identification strategy linking colonial missionary exposure to a contemporary health outcome (HIV and sexual behaviour), establishing that the long-run causal approach works for health behaviour, not only education or income. I have also led six months of primary qualitative fieldwork in rural Zambia, so the community-facing component rests on demonstrated capacity.
 
