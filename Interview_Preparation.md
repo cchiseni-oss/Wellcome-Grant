@@ -15,6 +15,7 @@ This pack is built from the submitted application (`bfe69b64-...md`), the interv
 4. [The 10-minute presentation: slide plan and script](#4-the-10-minute-presentation-slide-plan-and-script)
 5. [Handling the expert reviewer comments](#5-handling-the-expert-reviewer-comments)
 6. [Likely questions and model answers](#6-likely-questions-and-model-answers)
+   - [Answering the research questions directly (RQ2 and RQ3)](#answering-the-research-questions-directly-rq2-and-rq3)
 7. [Preparation timeline, now to interview day](#7-preparation-timeline-now-to-interview-day)
 8. [On the day](#8-on-the-day)
 9. [Sources](#9-sources)
@@ -135,7 +136,7 @@ A careful reviewer or panel member could pick up on the points below. Most can b
 
 ## 4. The 10-minute presentation: slide plan and script
 
-A draft deck built from this plan is in `Interview_Deck_draft.pptx`, with a quick-look PDF in `Interview_Deck_draft_preview.pdf`. It has the 13 main slides with the script in the speaker notes, followed by 7 backup slides for Q&A. Grey dashed boxes and **[brackets]** mark the places where you need to add your own material.
+A draft deck built from this plan is in `Interview_Deck_draft.pptx`, with a quick-look PDF in `Interview_Deck_draft_preview.pdf`. It has the 13 main slides with the script in the speaker notes, then a divider (slide 14) and 7 backup slides for Q&A: 15 trust measures, 16 the instrument, 17 mediation, 18 risks, 19 outcomes and exposure, 20 telling the channels apart (RQ3), and 21 budget. Grey dashed boxes and **[brackets]** mark the places where you need to add your own material.
 
 ### Design rules
 
@@ -254,6 +255,87 @@ The letter says comments arrive about one week before the interview; the web gui
 ## 6. Likely questions and model answers
 
 The answers are written in the first person, sized for 30 to 60 seconds. Rephrase them in your own words; memorised answers sound memorised. ★ marks the questions most likely to come up. Drill those first.
+
+### Answering the research questions directly (RQ2 and RQ3)
+
+A panel member may read out one of your research questions and ask how you will answer it. Don't restate the question or list what the proposal already says. Answer in steps that match the parts of the question, and show how you would tell the possible answers apart. Open with the short version, and give the full answer if they want more.
+
+**RQ2 ★ How will you answer RQ2: do exposed communities differ in trust and health-seeking, and does that difference, through behaviour, predict a disease-burden penalty?**
+
+*Short version (about 10 seconds):*
+
+> I compare communities near mission stations that had a hospital with communities near stations that didn't. I measure their trust and health-seeking today, and then test whether the difference in disease burden runs through that trust and behaviour.
+
+*Full answer (about 75 seconds):*
+
+> There are three parts to that question, so I'll take them in turn.
+>
+> First, the comparison. My dataset shows where each mission hospital and dispensary was, how long it ran and how many patients it treated. I compare communities near them with communities near mission stations in the same country that never had a medical facility. Missionaries chose both kinds of place, but only one got medicine. I also control for where the colonial state built its own hospitals.
+>
+> Second, trust and behaviour. I measure trust in three ways: whether people refuse a free blood test in the DHS surveys, how they describe their experience of clinics in Afrobarometer, and the fieldwork. Behaviour is antenatal care, facility births, vaccination and care for sick children, also from the DHS.
+>
+> Third, burden. I estimate the total difference in child mortality and disease burden. Then I ask how much of it runs through trust and behaviour, and how much through facilities that still exist. If I'm right, the gap follows the historical map. It is bigger where a mission hospital ran longer and treated more patients, and it fades with distance. A "yes" needs all three links, and only at the stations that offered medicine.
+
+*Likely follow-ups:*
+
+- **"What do you mean by a 'penalty'? Couldn't the effect go either way?"** It could, and I test both directions. "Penalty" means the extra burden carried by lower-trust communities, wherever they are: places mission medicine never reached, or places where it was coercive. I'll pre-specify where each should appear: a dividend near long-running, busy hospitals, and a deficit where mission medicine was short-lived or tied to coercive campaigns. (See also Q5.)
+- **"How do you know the communities are comparable?"** I compare within countries, and I match on what drew missionaries: malaria, railways, cash crops and access to towns. I also use differences between missionary societies in how much medical work they did. Then I test how strong any hidden selection would have to be to explain the result away. (Q20 to Q22.)
+- **"Trust, behaviour and burden come from different surveys. How do you join them?"** In the DHS, trust and behaviour come from the same survey, often for the same women, so that link is at the individual level. Afrobarometer and the burden maps join at district level, and I'm explicit that those links are weaker evidence about individuals. (Q28.)
+- **"Isn't trust just a reaction to how good today's clinics are?"** Partly, and that's one of the channels I want to measure. I compare places where the mission facility survives with places where it closed. Today's facilities enter the analysis as a channel, not as something I hold constant. (Q19, Q23.)
+- **"Formal mediation needs strong assumptions."** It does. My main result is the total effect. I report the split into trust, behaviour and surviving facilities with its assumptions stated, plus a test of how much hidden confounding would erase it. The fieldwork checks whether the channels are real. (Q27.)
+- **"How much statistical power do you have?"** The limit isn't the number of survey respondents, which is large. It's the number of independent historical sites. So I cluster standard errors by mission station, correct for spatial correlation, and will report the smallest detectable effect in the pre-analysis plan. (Q24.)
+- **"What if trust differs but burden doesn't?"** Then trust shapes how people use care but doesn't drive burden, which is still worth knowing. If burden differs but trust and behaviour don't, the legacy runs through infrastructure, and the direct-effect estimate picks that up.
+
+*What to avoid:*
+
+- Don't open with "instrumental variable", "mediation" or "g-estimation". Use the plain description, and give the technical term only if an economist asks how.
+- Don't say you "control for" today's facility access. Today's facilities are a channel you are measuring.
+- Don't describe the IHME estimates as data you measured. They are model estimates and your second burden measure. (Q16.)
+- Don't say "prove". Say you will produce a bounded estimate.
+
+*Before you use this:* several parts of the answer refine the submitted application: blood-test refusal as a trust measure, DHS-measured child mortality as the main burden outcome, the total effect as the main result, and today's facilities treated as a channel. Present them as changes since submission, for example on slide 9. Before saying the blood-test measure out loud, confirm that the refusal codes exist in the DHS rounds you'll use (Section 3, item 2). Backup slides 15 (trust measures), 17 (mediation) and 19 (outcomes and exposure) support this answer.
+
+**RQ3 ★ How will you answer RQ3: through what channels is this inheritance transmitted?**
+
+*Short version (about 10 seconds):*
+
+> Each channel predicts a different pattern, so I test them against each other. The facility data and surveys show where the effect appears, and the fieldwork shows why.
+
+*Full answer (about 70 seconds):*
+
+> Each channel leaves a different fingerprint, so I can test them against each other rather than just list them.
+>
+> If the legacy runs through surviving church facilities, it should be concentrated where the mission hospital still operates, and people there should be using it. If it runs through health workers, it should survive even where the hospital closed. It should also show up as better treatment at ordinary government clinics, especially near hospitals that trained African medical staff. If it's a religious norm, it should be strongest among members of the church that ran the hospital. And if it's coercion, I'd expect a deficit near leprosy settlements and campaign sites, affecting trust in medicine but not trust in the police.
+>
+> The facility data and surveys show which of these patterns appears. The fieldwork in four Zambian communities shows why: health-worker family histories, what churches taught, and what people remember of coercion. For the channels I can measure, I then estimate how much of the effect each one carries.
+
+*The logic to memorise (also backup slide 20):*
+
+| Channel | What you'd see | Main evidence |
+|---|---|---|
+| Surviving faith-based facilities | Effect concentrated where the mission facility still runs, and people use that facility | Faith-based flag in the KEMRI-WHO facility data; Churches Health Association of Zambia (CHAZ) member list; DHS place of delivery |
+| Health-worker norms | Effect persists where the hospital closed; better treatment at government clinics; strongest near former training hospitals | Training records in the medical reports; Afrobarometer items on disrespect and informal payment; health-worker life histories |
+| Religious norm | Effect strongest among members of the mission's church, weaker among their neighbours | Religion recorded in DHS and Afrobarometer; fieldwork on church teaching |
+| Coercion | A deficit near leprosy settlements and campaign sites, specific to medicine | Coercive exposure coded from archives; trust in other institutions as a placebo; memories and rumours in the fieldwork |
+
+*Likely follow-ups:*
+
+- **"Which do you expect to matter most?"** In colonial India, Calvi and Mantovanelli find the legacy runs through lasting habits, not surviving hospitals or conversion. But faith-based organisations are still major health providers in Africa, so surviving facilities may matter more here. That's exactly what the test decides.
+- **"Facilities didn't survive at random. The ones that survived may be the ones people already trusted."** Right, so survival alone can't prove the channel. I check whether surviving hospitals were already busier before others closed, using the patient numbers in my dataset. Where they exist, I also lean on closures decided far away, such as a society leaving a whole territory.
+- **"Isn't this just mission schooling?"** Mission stations without hospitals also ran schools, so comparing medical with non-medical stations removes much of the schooling effect. I also record school provision at each station. I don't control for people's own education, because that's partly an effect of missions, but I report results by education level.
+- **"Religion is itself an outcome of missions. Will you control for it?"** No, because that would remove part of the effect. I use religion only to see where the effect is concentrated, and I treat conversion as a channel in its own right.
+- **"What does 'mediator of the community-state relationship' mean?"** Many church hospitals work inside the national health system with government support. In Zambia they are coordinated by the Churches Health Association. The question is whether trust built in the church facility carries over to government clinics or stays with the church. Where the DHS records mission facilities separately, I can see whether exposure raises use of government facilities too, or only of church ones.
+- **"How will you know coercion happened at a given station?"** I code it from the records: mission-run leprosy settlements, mission roles in state campaigns such as sleeping-sickness or venereal-disease control, and church rules against healers. Historians have documented each of these. Examples are Vongsathorn on Uganda's leprosy settlements, White on sleeping-sickness control in Northern Rhodesia, and Hokkanen on the Livingstonia church and African healers. Where the records are silent, the fieldwork asks what people remember. (Q26; sources in `Literature_Coercive_Mission_Medicine.md`.)
+- **"Four communities can't separate four mechanisms."** They aren't meant to estimate effects. They show whether each channel's steps actually happened: whether health-worker families passed on norms, whether churches taught people to use clinics, whether people remember coercion. If the channels can't be separated, I'll say so rather than force a split. The total effect from RQ2 still stands. (Q29.)
+- **"Where does gender come in?"** Mission medicine focused heavily on mothers and children, so I expect several channels to run through women: midwife training, church women's groups and maternity programmes. Maternity is also where missionary control over people's lives was most intimate. That's why I estimate models separately for women and men, and the focus groups are single-sex.
+
+*What to avoid:*
+
+- Don't promise to put a number on all four channels. The surviving-facility channel is the easiest to measure. The others rest more on patterns and fieldwork, so say so.
+- Don't control for religion or today's facilities. Both are channels you are trying to measure.
+- Don't treat coercion as an afterthought. It's the part that stops the argument being one-sided, so give it equal weight. (Q36.)
+
+*Before you use this:* the fingerprint tests, the coercion coding, and using Afrobarometer clinic items as a sign of how health workers behave go further than the submitted WP3 text, so present them as developments since submission. Before the interview, check four things: how faith-based facilities are coded and funded in your core countries; the CHAZ member list for Zambia; which DHS rounds record mission facilities as a separate place of care; and whether the medical reports record staff training, leprosy settlements and campaign work at mission stations.
 
 ### A. The big picture (generalist panel)
 
