@@ -301,11 +301,11 @@ A panel member may read out one of your research questions and ask how you will 
 
 > Each channel predicts a different pattern, so I test them against each other. The facility data and surveys show where the effect appears, and the fieldwork shows why.
 
-*Full answer (about 70 seconds):*
+*Full answer (about 75 seconds):*
 
-> Each channel leaves a different fingerprint, so I can test them against each other rather than just list them.
+> Each channel leaves a different fingerprint, so I test them against each other.
 >
-> If the legacy runs through surviving church facilities, it should be concentrated where the mission hospital still operates, and people there should be using it. If it runs through health workers, it should survive even where the hospital closed. It should also show up as better treatment at ordinary government clinics, especially near hospitals that trained African medical staff. If it's a religious norm, it should be strongest among members of the church that ran the hospital. And if it's coercion, I'd expect a deficit near leprosy settlements and campaign sites, affecting trust in medicine but not trust in the police.
+> If the legacy runs through surviving church facilities, it should be concentrated where the mission hospital still operates. If it runs through health workers, it should survive where the hospital closed, and show up in how government clinics near former training hospitals treat patients: better where the mission history was mainly care, possibly harsher where it was coercive. If it's a religious norm, it should be strongest among members of the church that ran the hospital. And if it's coercion, I'd expect lower trust near leprosy settlements and campaign sites, even where today's clinics are no worse, and in medicine but not in the police.
 >
 > The facility data and surveys show which of these patterns appears. The fieldwork in four Zambian communities shows why: health-worker family histories, what churches taught, and what people remember of coercion. For the channels I can measure, I then estimate how much of the effect each one carries.
 
@@ -314,13 +314,14 @@ A panel member may read out one of your research questions and ask how you will 
 | Channel | What you'd see | Main evidence |
 |---|---|---|
 | Surviving faith-based facilities | Effect concentrated where the mission facility still runs, and people use that facility | Faith-based flag in the KEMRI-WHO facility data; Churches Health Association of Zambia (CHAZ) member list; DHS place of delivery |
-| Health-worker norms | Effect persists where the hospital closed; better treatment at government clinics; strongest near former training hospitals | Training records in the medical reports; Afrobarometer items on disrespect and informal payment; health-worker life histories |
+| Health-worker norms | Effect persists where the hospital closed; strongest near former training hospitals; care at nearby government clinics differs in the direction of the mission's history (better after mainly care, possibly harsher after coercion) | Training records in the medical reports; DHS antenatal-care content for technical quality; Afrobarometer items on disrespect and informal payment for interpersonal quality; health-worker life histories |
 | Religious norm | Effect strongest among members of the mission's church, weaker among their neighbours | Religion recorded in DHS and Afrobarometer; fieldwork on church teaching |
-| Coercion | A deficit near leprosy settlements and campaign sites, specific to medicine | Coercive exposure coded from archives; trust in other institutions as a placebo; memories and rumours in the fieldwork |
+| Coercion | Lower trust and use near leprosy settlements and campaign sites, even at the same care quality; specific to medicine, not the police | Coercive exposure coded from archives; trust compared at the same measured care quality; trust in other institutions as a placebo; memories and rumours in the fieldwork |
 
 *Likely follow-ups:*
 
 - **"Which do you expect to matter most?"** In colonial India, Calvi and Mantovanelli find the legacy runs through lasting habits, not surviving hospitals or conversion. But faith-based organisations are still major health providers in Africa, so surviving facilities may matter more here. That's exactly what the test decides.
+- **"Couldn't mission training also pass on paternalism? Why assume care near mission hospitals is better?"** I don't assume it. Mission medicine could be caring or controlling, so I expect the direction to follow the kind of mission history: better care where it was mainly care, and possibly harsher treatment where it was coercive. I measure technical quality, such as what antenatal visits included, separately from interpersonal quality, such as respect and informal payments, because training could raise the first while passing on paternalism in the second. The same comparison separates two channels. If people near coercive sites distrust clinics that are no worse than elsewhere, the distrust is inherited. If care there is also worse, today's health workers carry part of it. That comparison is a test of the channels, not a control in the main estimate.
 - **"Facilities didn't survive at random. The ones that survived may be the ones people already trusted."** Right, so survival alone can't prove the channel. I check whether surviving hospitals were already busier before others closed, using the patient numbers in my dataset. Where they exist, I also lean on closures decided far away, such as a society leaving a whole territory.
 - **"Isn't this just mission schooling?"** Mission stations without hospitals also ran schools, so comparing medical with non-medical stations removes much of the schooling effect. I also record school provision at each station. I don't control for people's own education, because that's partly an effect of missions, but I report results by education level.
 - **"Religion is itself an outcome of missions. Will you control for it?"** No, because that would remove part of the effect. I use religion only to see where the effect is concentrated, and I treat conversion as a channel in its own right.
@@ -332,10 +333,11 @@ A panel member may read out one of your research questions and ask how you will 
 *What to avoid:*
 
 - Don't promise to put a number on all four channels. The surviving-facility channel is the easiest to measure. The others rest more on patterns and fieldwork, so say so.
-- Don't control for religion or today's facilities. Both are channels you are trying to measure.
+- Don't control for religion, today's facilities or today's care quality in the main estimate. They are channels you are trying to measure. Comparisons that hold them fixed belong in the channel tests, such as comparing trust at the same care quality.
+- Don't predict that care near mission hospitals is simply better. The direction should follow the kind of mission history, as your headline hypothesis on slide 3 says.
 - Don't treat coercion as an afterthought. It's the part that stops the argument being one-sided, so give it equal weight. (Q36.)
 
-*Before you use this:* the fingerprint tests, the coercion coding, and using Afrobarometer clinic items as a sign of how health workers behave go further than the submitted WP3 text, so present them as developments since submission. Before the interview, check four things: how faith-based facilities are coded and funded in your core countries; the CHAZ member list for Zambia; which DHS rounds record mission facilities as a separate place of care; and whether the medical reports record staff training, leprosy settlements and campaign work at mission stations.
+*Before you use this:* the fingerprint tests, the coercion coding, the split into technical and interpersonal care quality, and the same-care-quality comparison go further than the submitted WP3 text, so present them as developments since submission. Also check that the DHS rounds you'll use include the antenatal-care content questions, and which Afrobarometer rounds ask about disrespect and informal payments at clinics. Before the interview, check four further things: how faith-based facilities are coded and funded in your core countries; the CHAZ member list for Zambia; which DHS rounds record mission facilities as a separate place of care; and whether the medical reports record staff training, leprosy settlements and campaign work at mission stations.
 
 ### A. The big picture (generalist panel)
 
